@@ -1,0 +1,7 @@
+*library/
+AE004437_seq_analysis/
+lma/
+
+*.RData
+
+.Rhistory
