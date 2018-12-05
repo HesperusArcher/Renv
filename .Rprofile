@@ -12,7 +12,7 @@ if (interactive()) {
     ## high light R
     library(highr)
     ## custom functions by HesperusArcher
-    source("~/R/Hesperus_functions.R")
+    source("~/R/Hesperus_alias.R")
 }
 
 ## local({dp <- Sys.getenv("R_DEFAULT_PACKAGES")
